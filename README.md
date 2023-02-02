@@ -7,5 +7,9 @@ n = NeuralNet.new(inputSize : Integer, outputSize : Integer, [hiddenLayers : Int
 n.train([ [trainingInputs : Float] ], [ [trainingOutputs : Float] ]);
 ~output = n.evaluateInputs([input : Float]);
 ```
-
-Also supported: \*.fromFile and .toFile.
+**Also supported: ```javascript
+$$
+****\*.**
+$$
+```fromFile and .toFile.**
+**
